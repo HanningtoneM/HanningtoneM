@@ -20,7 +20,7 @@ const HanningtoneM = {
 ## 📲 Let's Connect
 - Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-hanningtone%20machuka%20monda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/hanningtone-machuka-58501722a)
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-@Hanningtone254-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hanningtone254?t=YVXXz9EZzOhR5vPi3DlHDQ&s=09)](https://twitter.com/Hanningtone254?t=YVXXz9EZzOhR5vPi3DlHDQ&s=09)
-- Email:[hanningtonepompyy@gmail.com](hanningtonepompyy@gmail.com)
+- Email: <a href="mailto:Hanningtonepompyy@gmail.com"> <img src="https://img.shields.io/badge/HanningtoneM-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 
 ## Git hub stats
