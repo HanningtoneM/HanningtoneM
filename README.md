@@ -12,9 +12,8 @@ const HanningtoneM = {
   pronouns: ["he", "him"],
   code: [JavaScript, HTML/CSS, , Bootstrap],
   challenge: "I am improving my Javascript skills and picking up TypeScript",
-  funFacts: ['I have less than 1 year of remote work experience with devs 
-  from all over the world', 
-  'my tiny doxy dog is ready to woof at the right offer']
+  funFacts: ['The only way to learn how to code is by writing more code', 
+  'I watch coding youtube videos for fun']
 }
 ```
 ## 📲 Let's Connect
