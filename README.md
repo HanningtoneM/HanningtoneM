@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-<!--
-**HanningtoneM/HanningtoneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -28,3 +27,5 @@ const hanningtoneMonda = {
 
 HanningtoneM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanningtoneM&count_private=true&theme=dark&show_icons=true&bg_color=F6F8FA0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
 
+<!--
+**HanningtoneM/HanningtoneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
