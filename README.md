@@ -4,7 +4,7 @@
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
 ---
-- 👩‍:man_technologist: I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc) 
+-:man_technologist: I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc) 
                  
 ```javascript
 const HanningtoneM = {
