@@ -16,7 +16,7 @@ const hanningtoneMonda = {
   challenge: "I am honing my Javascript skills and picking up TypeScript",
   funFacts: ['I have less than 1 year of remote work experience with devs 
   from all over the world', 
-  'my tiny doxy dog is ready to woof at the right offer']
+  'my tiny doxy dog is ready to woof at the right offer'] 
 
 ## 📲 Let's Connect
 - Linkdhin: [![Linkedin Badge](https://img.shields.io/badge/-Charlotte%20Divine%20Dusenge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/hanningtone-machuka-58501722a)
