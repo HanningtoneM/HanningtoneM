@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a hospital website
-- 🌱 I’m currently learning ... ruby, javascript , ruby and ruby on rails
+- 🌱 I’m currently learning ... ruby, javascript , ruby and ruby on rails 
 
 ```javascript
 const hanningtoneMonda = {
