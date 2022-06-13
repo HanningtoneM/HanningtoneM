@@ -2,7 +2,7 @@
 <h3 align="center">A Full-stack developer from kenya</h3>
 
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
-<p align="center">Open for new opportunities</p>
+<p align="center">Available for new opportunities</p>
 
 ---
 -:man_technologist: I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc) 
