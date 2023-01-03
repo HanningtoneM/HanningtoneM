@@ -21,7 +21,7 @@ const HanningtoneM = {
   code: [JavaScript, HTML/CSS, , Bootstrap],
   challenge: "I am improving my JavaScript skills and picking up TypeScript",
   funFacts: ['The only way to learn how to code is by writing more code', 
-  'I watch coding youtube videos for fun']
+  'I watch coding youtube videos for fun' ]
 }
 ```
 ## Languages I write in
