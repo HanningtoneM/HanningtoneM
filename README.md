@@ -6,7 +6,7 @@
 
 ---
 -:man_technologist: I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc) 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://hanningtonem.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://hanningtonem.github.io/Latest-Portfolio/)
 
 ## Let's Connect
 
